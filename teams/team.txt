@@ -1,0 +1,10 @@
+<b>TEAM #</b>
+<ul>
+<li>Captain	</li>
+<li>Player 1	</li>
+<li>Player 2	</li>
+<li>Player 3	</li>
+<li>Player 4	</li>
+<li>Alternate 1	</li>
+<li>Alternate 2	</li>
+</ul>

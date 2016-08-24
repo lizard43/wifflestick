@@ -1,0 +1,10 @@
+<b>TEAM #6 Wiffle it Just a Little Bit</b>
+<ul>
+<li>Captain Lenora Vandemark</li>
+<li>Player Cheryl Felger</li>
+<li>Player Brian Rieman</li>
+<li>Player David Palmer</li>
+<li>Player Steve Stetka</li>
+<li>Alternate Teri Lawson</li>
+<li>Alternate Christy Klaehn</li>
+</ul>

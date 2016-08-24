@@ -1,0 +1,12 @@
+<b>TEAM #7 Armadillos</b>
+<ul>
+<li>Captain Pat Beuchel</li>
+<li>Player Ted Roberts</li>
+<li>Player Robyn Fry</li>
+<li>Player Kim Marquardt</li>
+<li>Player Brian Snodgrass</li>
+<li>Alternate Pat Thomasson</li>
+<li>Alternate Jodi Clark</li>
+<li>Alternate Jonathon Rose</li>
+<li>Alternate Jay Blevins</li>
+</ul>

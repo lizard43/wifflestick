@@ -1,0 +1,10 @@
+<b>TEAM #9 Keefer's Keepers</b>
+<ul>
+<li>Captain Debbie Wallace</li>
+<li>Player  Joe Keefer</li>
+<li>Player  Tim Pfister</li>
+<li>Player  Ken Nelson</li>
+<li>Player  Judy Maley</li>
+<li>Alternate  Todd Gallager</li>
+<li>Alternate  Chuck Geswein</li>
+</ul>

@@ -1,0 +1,12 @@
+<b>TEAM #1 Hit for Brains</b>
+<ul>
+<li>Captain Stacey Monnier</li>
+<li>Player Carl Calloway</li>
+<li>Player Mark Witte</li>
+<li>Player Dan Tom</li>
+<li>Player Natalea Tom</li>
+<li>Alternate Chris Stratton</li>
+<li>Alternate Mark Berning</li>
+<li>Alternate Mary Travis</li>
+<li>Alternate Erin Clouse</li>
+</ul>

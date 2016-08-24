@@ -1,0 +1,15 @@
+<b>TEAM #2 Poachers</b>
+<ul>
+<li>Captain Joe Benschneider</li>
+<li>Player Betsy Crews</li>
+<li>Player Irina Rahimi</li>
+<li>Player Adam Mielke</li>
+<li>Player Justin Hagan</li>
+<li>Alternate Laurie Smith</li>
+<li>Alternate Ron Roth</li>
+<li>Alternate Ken Nelson</li>
+<li>Alternate Dean Hill</li>
+<li>Alternate Amy Gustin</li>
+<li>Alternate Seth Colclasure</li>
+<li>Alternate Chris Ballard</li>
+</ul>
