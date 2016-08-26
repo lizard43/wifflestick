@@ -3,9 +3,10 @@
 // Create the tooltips only when document ready
 $(document).ready(function() {
 
-  $("area").qtip("destroy")
-
   $('area').each(function() {
+
+    $(this).qtip("destroy")
+
     $(this).qtip({
       position: {
         target: [300, 50]      
