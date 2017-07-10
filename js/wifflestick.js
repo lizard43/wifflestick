@@ -1,4 +1,4 @@
-  var GAME_URL='http://www.wifflestick.com/games/game';
+  var GAME_URL='/games/game';
 
 // Create the tooltips only when document ready
 $(document).ready(function() {
