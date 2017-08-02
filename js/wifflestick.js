@@ -9,7 +9,7 @@ $(document).ready(function() {
 
     $(this).qtip({
       position: {
-        target: [300, 50]      
+        target: [0, 0]      
       },
       show: {
         delay: 100,
