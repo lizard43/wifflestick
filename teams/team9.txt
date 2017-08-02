@@ -1,10 +1,11 @@
-<b>TEAM #9 Keefer's Keepers</b>
+<b>TEAM #9 Wiffle it Just a Little Bit</b>
 <ul>
-<li>Captain Debbie Wallace</li>
-<li>Player  Joe Keefer</li>
-<li>Player  Tim Pfister</li>
-<li>Player  Ken Nelson</li>
-<li>Player  Judy Maley</li>
-<li>Alternate  Todd Gallager</li>
-<li>Alternate  Chuck Geswein</li>
+<li>Captain Cheryl Felger</li>
+<li>Player Christy Klaehn</li>
+<li>Player Brian Rieman</li>
+<li>Player David Palmer</li>
+<li>Player Steve Stetka</li>
+<li>Alternate Teri Lawson</li>
+<li>Captain Rose Boidock</li>
+<li>Captain Lenora Vandemark</li>
 </ul>

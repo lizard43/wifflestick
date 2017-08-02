@@ -1,12 +1,10 @@
-<b>TEAM #1 Hit for Brains</b>
+<b>TEAM #1 Wiffling Crows</b>
 <ul>
-<li>Captain Stacey Monnier</li>
-<li>Player Carl Calloway</li>
-<li>Player Mark Witte</li>
-<li>Player Dan Tom</li>
-<li>Player Natalea Tom</li>
-<li>Alternate Chris Stratton</li>
-<li>Alternate Mark Berning</li>
-<li>Alternate Mary Travis</li>
-<li>Alternate Erin Clouse</li>
+<li>Captain Nathan Carter</li>
+<li>Player Stephanie Knox</li>
+<li>Player John Bryan</li>
+<li>Player Katie Fore</li>
+<li>Player Brad Rosenbaum</li>
+<li>Alternate Betsy Black</li>
+<li>Alternate John Bodenschatz</li>
 </ul>

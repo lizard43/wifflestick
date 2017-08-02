@@ -1,9 +1,9 @@
-<b>TEAM #4 Wiffling Crows</b>
+<b>TEAM #4 Fore Factor</b>
 <ul>
-<li>Captain Nathan Carter</li>
-<li>Player Betsy Black</li>
-<li>Player Stephanie Holler</li>
-<li>Player John Bryan</li>
-<li>Player Brad Rosenbaum</li>
-<li>Alternate </li>
+<li>Captain Matt Chojnacki</li>
+<li>Player  Caleb Conley</li>
+<li>Player  Jennifer Emery</li>
+<li>Player  Jeremy Hiss</li>
+<li>Player  Rebecca Leppelmeier</li>
+<li>Alternate  Katie Fore</li>
 </ul>

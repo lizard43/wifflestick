@@ -1,12 +1,10 @@
-<b>TEAM #3 ABE FROMAN Returns!</b>
+<b>TEAM #3 Parkview Short Sale</b>
 <ul>
-<li>Captain RJ Falcone</li>
-<li>Player Chris Landrigan</li>
-<li>Player Ben Palmer</li>
-<li>Player Ann Myers</li>
-<li>Player Kendra Strunk</li>
-<li>Alternate Velma Goree</li>
-<li>Alternate Jay Blevins</li>
-<li>Alternate Laura Hattery</li>
-<li>Alternate Dave Libbing</li>
+<li>Captain	Tyler Ault</li>
+<li>Player  Jeannine Webster</li>
+<li>Player  Phillip Greer</li>
+<li>Player  Dylan Herendeen	</li>
+<li>Player  Donna Moore	</li>
+<li>Alternate Stephanie Dickmeyer	</li>
+<li>Alternate Greg Trabel	</li>
 </ul>

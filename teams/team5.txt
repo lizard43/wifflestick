@@ -1,9 +1,12 @@
-<b>TEAM #5 The Fore Factor</b>
+<b>TEAM #5 ABE FROMAN Returns!</b>
 <ul>
-<li>Captain Matt Chojnacki</li>
-<li>Player Jeremy Hiss</li>
-<li>Player Linda Poynter</li>
-<li>Player Katie Fore</li>
-<li>Player Matt Zachrich</li>
-<li>Alternate Caleb Conley</li>
+<li>Captain RJ Falcone</li>
+<li>Player Chris Landrigan</li>
+<li>Player Ben Palmer</li>
+<li>Player Ann Myers</li>
+<li>Player Kendra Strunk</li>
+<li>Alternate Velma Goree</li>
+<li>Alternate Jay Blevins</li>
+<li>Alternate Laura Hattery</li>
+<li>Alternate Dave Libbing</li>
 </ul>

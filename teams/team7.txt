@@ -1,12 +1,10 @@
-<b>TEAM #7 Armadillos</b>
+<b>TEAM #7 Get A Wiff Of This</b>
 <ul>
-<li>Captain Pat Beuchel</li>
-<li>Player Ted Roberts</li>
-<li>Player Robyn Fry</li>
-<li>Player Kim Marquardt</li>
-<li>Player Brian Snodgrass</li>
-<li>Alternate Pat Thomasson</li>
-<li>Alternate Jodi Clark</li>
-<li>Alternate Jonathon Rose</li>
-<li>Alternate Jay Blevins</li>
+<li>Captain	Sarah Wells</li>
+<li>Player  Mark Braun</li>
+<li>Player  Judy Maley</li>
+<li>Player  Pat Mattes</li>
+<li>Player  Mike Reinking</li>
+<li>Alternate Bill Witcher</li>
+<li>Alternate Rick Schwaiger</li>
 </ul>

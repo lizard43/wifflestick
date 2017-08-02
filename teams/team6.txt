@@ -1,10 +1,10 @@
-<b>TEAM #6 Wiffle it Just a Little Bit</b>
+<b>TEAM #6 Poachers</b>
 <ul>
-<li>Captain Lenora Vandemark</li>
-<li>Player Cheryl Felger</li>
-<li>Player Brian Rieman</li>
-<li>Player David Palmer</li>
-<li>Player Steve Stetka</li>
-<li>Alternate Teri Lawson</li>
-<li>Alternate Christy Klaehn</li>
+<li>Captain Joe Benschneider</li>
+<li>Player Betsy Crews</li>
+<li>Player Justin Hagan</li>
+<li>Player Adam Mielke</li>
+<li>Player Irina Rahimi</li>
+<li>Alternate Jeffrey Wiegner</li>
+<li>Alternate Ken Nelson</li>
 </ul>
