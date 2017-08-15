@@ -5,5 +5,5 @@
 <li>Player  Jennifer Emery</li>
 <li>Player  Jeremy Hiss</li>
 <li>Player  Rebecca Leppelmeier</li>
-<li>Alternate  Katie Fore</li>
+<li>Alternate  Matt Zachrich</li>
 </ul>

@@ -4,8 +4,9 @@
 <li>Player Christy Klaehn</li>
 <li>Player Brian Rieman</li>
 <li>Player David Palmer</li>
-<li>Player Steve Stetka</li>
+<li>Player Travis Kintz</li>
+<li>Player Barb Sorg</li>
 <li>Alternate Teri Lawson</li>
-<li>Captain Rose Boidock</li>
-<li>Captain Lenora Vandemark</li>
+<li>Alternate Rose Boidock</li>
+<li>Alternate Craig Stangland</li>
 </ul>
