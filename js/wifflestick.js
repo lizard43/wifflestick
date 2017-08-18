@@ -15,9 +15,7 @@ $(document).ready(function() {
         delay: 100,
         solo: true
       },
-      hide: {
-        delay: 0               
-      },
+      hide: 'click',
       style: 'qtip-light qtip-rounded',
       content: {
         text: function(event, api) {
