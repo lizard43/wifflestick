@@ -12,6 +12,7 @@ $(document).ready(function() {
         target: [5, 5]      
       },
       show: {
+        click: true,
         delay: 100,
         solo: true
       },
