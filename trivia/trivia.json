@@ -1,0 +1,2445 @@
+{
+  "trivia": [
+    {
+      "id": 1,
+      "question": "A cat is a feline but what's a Leporine?",
+      "answer": "rabbit",
+      "category": "animal"
+    },
+    {
+      "id": 2,
+      "question": "What lives in a formicary",
+      "answer": "ants",
+      "category": "animal"
+    },
+    {
+      "id": 3,
+      "question": "An Apiary holds",
+      "answer": "bees",
+      "category": "animal"
+    },
+    {
+      "id": 4,
+      "question": "How many gallons can a pelican hold",
+      "answer": "3 gallons",
+      "category": "animal"
+    },
+    {
+      "id": 5,
+      "question": "What is a pack of bears called",
+      "answer": "sloth or sleuth (though pack and maul are also used)",
+      "category": "animal"
+    },
+    {
+      "id": 6,
+      "question": "What does an insect do when it moults?",
+      "answer": "Sheds its skin",
+      "category": "animal"
+    },
+    {
+      "id": 7,
+      "question": "What name is given to the crab that lives in an empty gastropad shell, moving when it outgrows?",
+      "answer": "Hermit crab",
+      "category": "animal"
+    },
+    {
+      "id": 8,
+      "question": "What animal lived longest in captivity",
+      "answer": "Tortoise",
+      "category": "animal"
+    },
+    {
+      "id": 9,
+      "question": "What lives in a drey",
+      "answer": "squirrel",
+      "category": "animal"
+    },
+    {
+      "id": 10,
+      "question": "Which are larger Winkless or Whelks",
+      "answer": "Whelks",
+      "category": "animal"
+    },
+    {
+      "id": 11,
+      "question": "What famous Gothic novel was written by Mary Shelley?",
+      "answer": "Frankenstein",
+      "category": "arts"
+    },
+    {
+      "id": 12,
+      "question": "Who wrote the tale of two cities?",
+      "answer": "Charles Dickens",
+      "category": "arts"
+    },
+    {
+      "id": 13,
+      "question": "Whose smile remained after the rest had vanished",
+      "answer": "Cheshire cat",
+      "category": "arts"
+    },
+    {
+      "id": 14,
+      "question": "Holly Golightly was a character in what novel and movie?",
+      "answer": "Breakfast at Tiffany's",
+      "category": "arts"
+    },
+    {
+      "id": 15,
+      "question": "Barry Allen was what alter ego of what DC comic",
+      "answer": "the Flash",
+      "category": "arts"
+    },
+    {
+      "id": 16,
+      "question": "What was the Greek mythology hero that killed Medusa",
+      "answer": "Perseus",
+      "category": "arts"
+    },
+    {
+      "id": 17,
+      "question": "Whose sons became 12 tribes of Israel",
+      "answer": "Jacob",
+      "category": "arts"
+    },
+    {
+      "id": 18,
+      "question": "What list was Sarah Ferguson on 5 times",
+      "answer": "People Worst Dressed",
+      "category": "arts"
+    },
+    {
+      "id": 19,
+      "question": "What creature is 'mang' in Jungle Book",
+      "answer": "bat",
+      "category": "arts"
+    },
+    {
+      "id": 20,
+      "question": "How many tales are in Canterbury Tales",
+      "answer": "23",
+      "category": "arts"
+    },
+    {
+      "question": "How many Shakespeare plays",
+      "answer": "37 or 38 if you accept the 1 lost play",
+      "category": "arts",
+      "id": 21
+    },
+    {
+      "id": 22,
+      "question": "Answer to life, universe and everything",
+      "answer": "42",
+      "category": "arts"
+    },
+    {
+      "id": 23,
+      "question": "What is Pan Galactic Gargle Blaster",
+      "answer": "an alcoholic beverage invented by ex-President of the Universe Zaphod Beeblebrox, considered by the Guide to be the \"Best Drink in Existence\"[1]. Its effects are similar to \"having your brains smashed in by a slice of lemon wrapped round a large gold brick\"",
+      "category": "arts"
+    },
+    {
+      "id": 24,
+      "question": "What is Deep Thought",
+      "answer": "a supercomputer programmed to calculate the answer to the Ultimate Question of Life, the Universe, and Everything. After seven and a half million years, it came up with the result of 42, but didn't know the question itself, so it commissioned the Earth to calculate that inquiry. Sadly, the Earth was destroyed just before it was going to give the question. Deep Thought has the Apple logo near its eye (in the film)",
+      "category": "arts"
+    },
+    {
+      "id": 25,
+      "question": "Were did Romeo and Julia take place",
+      "answer": "Italy",
+      "category": "arts"
+    },
+    {
+      "id": 26,
+      "question": "Who wrote Silence of the Lambs",
+      "answer": "Thomas Harris",
+      "category": "arts"
+    },
+    {
+      "id": 27,
+      "question": "Who wrote Dr Zhivago",
+      "answer": "Boris Pasternack",
+      "category": "arts"
+    },
+    {
+      "category": "arts",
+      "question": "50 shades of Grey started as an erotic novel written by who?",
+      "answer": "E.L. James",
+      "id": 28
+    },
+    {
+      "id": 29,
+      "question": "Who did Peter Pan take to Neverland to become the Lost Boy's mother?",
+      "answer": "Wendy",
+      "category": "arts"
+    },
+    {
+      "id": 30,
+      "question": "What type of animal is Nana the nurse maid in Peter Pan",
+      "answer": "dog",
+      "category": "arts"
+    },
+    {
+      "id": 31,
+      "question": "In what city is Leonardo's Da Vinnci's Last Supper displayed",
+      "answer": "Milan, Italy",
+      "category": "arts"
+    },
+    {
+      "id": 32,
+      "question": "What animal is on a Ferrari",
+      "answer": "Horse",
+      "category": "automotive"
+    },
+    {
+      "id": 33,
+      "question": "First mass produced car",
+      "answer": "Oldsmobile Curved Dash, 1903",
+      "category": "automotive"
+    },
+    {
+      "id": 34,
+      "question": "what does RAV stand for",
+      "answer": "Recreational Active Vehicle",
+      "category": "automotive"
+    },
+    {
+      "id": 35,
+      "question": "The first corvette rolled off the assembly line in flint michigan in what year?",
+      "answer": "1952",
+      "category": "automotive"
+    },
+    {
+      "id": 36,
+      "question": "What is the name of a creamy sauce made of butter,egg yolks and vinegar?",
+      "answer": "Hollandaise",
+      "category": "food"
+    },
+    {
+      "id": 37,
+      "question": "What Is The Main Ingrediant Of Guacamole?",
+      "answer": "Avacadoes",
+      "category": "food"
+    },
+    {
+      "id": 38,
+      "question": "Bortsch is dish of?",
+      "answer": "Russia",
+      "category": "food"
+    },
+    {
+      "category": "food",
+      "question": "What can you eat in a month with R",
+      "answer": "oysters",
+      "id": 39
+    },
+    {
+      "id": 40,
+      "question": "Marzipan is made from ",
+      "answer": "Almonds",
+      "category": "food"
+    },
+    {
+      "id": 41,
+      "question": "What is added to wine to make Port",
+      "answer": "Brandy",
+      "category": "food"
+    },
+    {
+      "id": 42,
+      "question": "What flavor is Frangelica Liquor",
+      "answer": "Hazelnut",
+      "category": "food"
+    },
+    {
+      "id": 43,
+      "question": "A Charentais is a French type of...",
+      "answer": "Melon",
+      "category": "food"
+    },
+    {
+      "id": 44,
+      "question": "how many pints is a firkin",
+      "answer": "86.4",
+      "category": "food"
+    },
+    {
+      "id": 45,
+      "question": "For which fruit is the state of Georgia famous?",
+      "answer": "Peach",
+      "category": "food"
+    },
+    {
+      "id": 46,
+      "question": "What French district does Claret come from?",
+      "answer": "Bordeaux",
+      "category": "food"
+    },
+    {
+      "category": "food",
+      "question": "Baby oysters are called?",
+      "answer": "Spat",
+      "id": 47
+    },
+    {
+      "id": 48,
+      "question": "What is name of sugar found in fruits",
+      "answer": "fructose",
+      "category": "food"
+    },
+    {
+      "id": 49,
+      "question": "What gives some pasta a green color?",
+      "answer": "spinach",
+      "category": "food"
+    },
+    {
+      "id": 50,
+      "question": "In which month is the Munich beer festival held",
+      "answer": "Octoberfest is September",
+      "category": "food"
+    },
+    {
+      "id": 51,
+      "question": "Which contains more caffeine: coffee beans or tea leaves",
+      "answer": "Tea",
+      "category": "food"
+    },
+    {
+      "id": 52,
+      "question": "A mixture of wine and soda water is known as a what",
+      "answer": "spritzer",
+      "category": "food"
+    },
+    {
+      "id": 53,
+      "question": "What is the main ingredient of Tapanade?",
+      "answer": "Olives",
+      "category": "food"
+    },
+    {
+      "id": 54,
+      "question": "After water, what is the most consumed beverage worldwide",
+      "answer": "tea",
+      "category": "food"
+    },
+    {
+      "id": 55,
+      "question": "What vitamin complex includes Thiamine, Niacin and Riboflavin",
+      "answer": "B",
+      "category": "food"
+    },
+    {
+      "id": 57,
+      "question": "To what city do Muslims make pilgrimage?",
+      "answer": "Mecca",
+      "category": "general"
+    },
+    {
+      "id": 58,
+      "question": "How long is a silver anniversary",
+      "answer": "25 yrs",
+      "category": "general"
+    },
+    {
+      "id": 59,
+      "question": "What color light is associated with a sale at KMart",
+      "answer": "blue",
+      "category": "general"
+    },
+    {
+      "id": 60,
+      "question": "What is the last word in Pledge of Alegiance",
+      "answer": "All",
+      "category": "general"
+    },
+    {
+      "id": 61,
+      "question": "Official Language of Mexico",
+      "answer": "none",
+      "category": "general"
+    },
+    {
+      "id": 62,
+      "question": "Sun god of Egypt",
+      "answer": "Ra",
+      "category": "general"
+    },
+    {
+      "id": 63,
+      "question": "What is a pack of hippos called",
+      "answer": "Crash",
+      "category": "general"
+    },
+    {
+      "id": 64,
+      "question": "How many branches in Allen County Library system",
+      "answer": "main + 13 = 14",
+      "category": "general"
+    },
+    {
+      "id": 65,
+      "question": "How many square feet is main library",
+      "answer": "367,000",
+      "category": "general"
+    },
+    {
+      "id": 66,
+      "question": "What is the piece of glass that separates light into the visible spectrum?",
+      "answer": "prism",
+      "category": "general"
+    },
+    {
+      "id": 67,
+      "question": "Who is the Norse god of the sky and thunder?",
+      "answer": "Thor",
+      "category": "general"
+    },
+    {
+      "id": 68,
+      "question": "A paper anniversary is how many years",
+      "answer": "1 (US)",
+      "category": "general"
+    },
+    {
+      "category": "general",
+      "question": "Wind speed of Hurricane Cat 1",
+      "answer": "74-95 MPH",
+      "id": 69
+    },
+    {
+      "category": "general",
+      "question": "Wind speed of Hurricane Cat 2",
+      "answer": "96-110 MPH",
+      "id": 70
+    },
+    {
+      "category": "general",
+      "question": "Wind speed of Hurricane Cat 3",
+      "answer": "111-130 MPH",
+      "id": 71
+    },
+    {
+      "id": 72,
+      "question": "Hurricane Cat 4",
+      "answer": "131-155 MPH",
+      "category": "general"
+    },
+    {
+      "category": "general",
+      "question": "Wind speed of Hurricane Cat 5",
+      "answer": "156+ MPH",
+      "id": 73
+    },
+    {
+      "id": 74,
+      "question": "Hurricane Andrew",
+      "answer": "Category 5 Atlantic hurricane that struck the Bahamas and Florida in mid-August 1992, the most destructive hurricane to ever hit the state. ",
+      "category": "general"
+    },
+    {
+      "id": 75,
+      "question": "Hurricane Katrina",
+      "answer": "was the costliest natural disaster and one of the five deadliest hurricanes in the history of the United States.[2] It was the eleventh named storm and the fifth hurricane of the 2005 Atlantic hurricane season.",
+      "category": "general"
+    },
+    {
+      "id": 76,
+      "question": "how many steps in empire State building",
+      "answer": "1576",
+      "category": "general"
+    },
+    {
+      "id": 77,
+      "question": "Columbia was first space shuttle, what was 2nd",
+      "answer": "Challenger was 2nd",
+      "category": "general"
+    },
+    {
+      "id": 78,
+      "question": "In billions, what is the Disney Company worth according to Forbes",
+      "answer": "23.1 Billion",
+      "category": "general"
+    },
+    {
+      "id": 79,
+      "question": "The old French Royal family and Boy Scouts share what symbol",
+      "answer": "Fleur-de-lis",
+      "category": "general"
+    },
+    {
+      "id": 80,
+      "question": "This 12 letter word is a fancy word for fireworks",
+      "answer": "pyrotechnics",
+      "category": "general"
+    },
+    {
+      "id": 81,
+      "question": "\"Faux pas\" means ___________",
+      "answer": "Mistake, social mistep",
+      "category": "general"
+    },
+    {
+      "id": 82,
+      "question": "Which American state's name is Spanish for \"flowered\" or \"flowery land\"?",
+      "answer": "Florida",
+      "category": "geography"
+    },
+    {
+      "id": 83,
+      "question": "What city boasts the Copacabana Beach and Ipanema?",
+      "answer": "Rio de Janeira",
+      "category": "geography"
+    },
+    {
+      "id": 84,
+      "question": "Hawaii lies on the Tropic of...?",
+      "answer": "Cancer",
+      "category": "geography"
+    },
+    {
+      "id": 85,
+      "question": "What is the circumference of the earth?",
+      "answer": "24,901",
+      "category": "geography"
+    },
+    {
+      "id": 86,
+      "question": "How many provinces and territories are in Canada",
+      "answer": "13",
+      "category": "geography"
+    },
+    {
+      "id": 87,
+      "question": "What direction does the Nile Flow",
+      "answer": "North",
+      "category": "geography"
+    },
+    {
+      "id": 88,
+      "question": "What bay does the river Ghangi flow into",
+      "answer": "Bay of Bengal",
+      "category": "geography"
+    },
+    {
+      "id": 89,
+      "question": "Galapagos Islands are part of what country",
+      "answer": "Ecuador",
+      "category": "geography"
+    },
+    {
+      "id": 90,
+      "question": "What country is capital Belmopan",
+      "answer": "Belize",
+      "category": "geography"
+    },
+    {
+      "id": 91,
+      "question": "What US state borders only 1 other state",
+      "answer": "Maine",
+      "category": "geography"
+    },
+    {
+      "id": 92,
+      "question": "What country has capital Brussels",
+      "answer": "Belgium",
+      "category": "geography"
+    },
+    {
+      "id": 93,
+      "question": "How many oceans",
+      "answer": "5. Atlantic, Pacific, Indian, Antarctic,Arctic",
+      "category": "geography"
+    },
+    {
+      "id": 94,
+      "question": "How many states border an ocean",
+      "answer": "23. 18 Atlantic, 5 Pacific",
+      "category": "geography"
+    },
+    {
+      "id": 95,
+      "question": "Identify this state: rectangle with squiggle things and a small dick",
+      "answer": "Iowa",
+      "category": "geography"
+    },
+    {
+      "id": 96,
+      "question": "What country are the Galapagos Islands part of",
+      "answer": "Ecuador",
+      "category": "geography"
+    },
+    {
+      "id": 97,
+      "question": "In which middle eastern country is the site of the hanging gardens of babylon understood to have been",
+      "answer": "Iraq",
+      "category": "geography"
+    },
+    {
+      "id": 98,
+      "question": "If you land at DFW, you are which American airport",
+      "answer": "Dallas Fort Worth",
+      "category": "geography"
+    },
+    {
+      "id": 99,
+      "question": "How many countries are in the United Kingdom",
+      "answer": "4. England, Scotland, Whales, Northern Ireland",
+      "category": "geography"
+    },
+    {
+      "id": 100,
+      "question": "Where did the famous witch trials of New England take place?",
+      "answer": "Salem",
+      "category": "history"
+    },
+    {
+      "id": 101,
+      "question": "What Queen of France was beheaded in 1793",
+      "answer": "Marie Antoinette",
+      "category": "history"
+    },
+    {
+      "id": 102,
+      "question": "Who was last president of the Soviet Union",
+      "answer": "Michael Gorbachev",
+      "category": "history"
+    },
+    {
+      "id": 103,
+      "question": "Disneyland opened in what year",
+      "answer": "1955",
+      "category": "history"
+    },
+    {
+      "id": 104,
+      "question": "Ace of Aces in WW1",
+      "answer": "Eddie Rickenbacher. 26 victories",
+      "category": "history"
+    },
+    {
+      "id": 105,
+      "question": "First African American Supreme Court Justice",
+      "answer": "Thorgood Marshall, 1967, for 24 yrs, 96th justice",
+      "category": "history"
+    },
+    {
+      "id": 106,
+      "question": "Of the 76 prisoners that escape from the Great Escape, how many were successful",
+      "answer": "3. 3 tunnels, Tom, Dick, Harry",
+      "category": "history"
+    },
+    {
+      "id": 107,
+      "question": "Name of Magellon ship that completed circumnavigate the globe",
+      "answer": "Victoria",
+      "category": "history"
+    },
+    {
+      "category": "history",
+      "question": "Sr Francis drake's Ship",
+      "answer": "Golden Hind. Vice Admiral Sir Francis Drake was an English sea captain and privateer of the Elizabethan era. Drake carried out the second circumnavigation of the world in a single expedition, from 1577 to 1580",
+      "id": 108
+    },
+    {
+      "id": 109,
+      "question": "How many states were won by Nixon in 1972",
+      "answer": "49",
+      "category": "history"
+    },
+    {
+      "id": 110,
+      "question": "In what modern day country was the battle of Waterloo fought?",
+      "answer": "Belgium",
+      "category": "history"
+    },
+    {
+      "id": 111,
+      "question": "What bird was the emblem of Prussia",
+      "answer": "Eagle",
+      "category": "history"
+    },
+    {
+      "id": 112,
+      "question": "In March 1785 what future president succeeded Ben Franklin as Minister to France",
+      "answer": "Thomas Jefferson",
+      "category": "history"
+    },
+    {
+      "id": 113,
+      "question": "What is the Reinheitsgebot",
+      "answer": "German Purity Law of 1516",
+      "category": "history"
+    },
+    {
+      "id": 114,
+      "question": "What kind of creature was Chewbacca in \"Star Wars\"?",
+      "answer": "Wookie",
+      "category": "movies"
+    },
+    {
+      "id": 115,
+      "question": "Who plays buttercup in Princess bride?",
+      "answer": "Robin Wright",
+      "category": "movies"
+    },
+    {
+      "id": 116,
+      "question": "When an animated film Surfs Up opened in June 2007,  another opened 7 months earlier",
+      "answer": "Happy Feet",
+      "category": "movies"
+    },
+    {
+      "id": 117,
+      "question": "What film director is known as the Master of Suspense",
+      "answer": "Alfred Hitchcock",
+      "category": "movies"
+    },
+    {
+      "id": 118,
+      "question": "What 1995 Oscar nominated movie had 48 stars dies within a year",
+      "answer": "Babe. It took 48 pigs to film lead role",
+      "category": "movies"
+    },
+    {
+      "id": 119,
+      "question": "What was Superman's birthname",
+      "answer": "Kal-El",
+      "category": "movies"
+    },
+    {
+      "id": 120,
+      "question": "Hollywoods first million $ actor signed contract in 1917 to direct and starred in 8 films.",
+      "answer": "Charlie Chaplin",
+      "category": "movies"
+    },
+    {
+      "id": 121,
+      "question": "In Jingle All the Way, what toy was Arnold looking for?",
+      "answer": "Turbo Man",
+      "category": "movies"
+    },
+    {
+      "id": 122,
+      "question": "Who turned down original Superman role",
+      "answer": "Warren Beatty",
+      "category": "movies"
+    },
+    {
+      "id": 123,
+      "question": "Pirate name on Princess Bride",
+      "answer": "Dread Pirate Roberts",
+      "category": "movies"
+    },
+    {
+      "id": 124,
+      "question": "Maurice Mikklewhite is what actor",
+      "answer": "Michael Caine",
+      "category": "movies"
+    },
+    {
+      "id": 125,
+      "question": "Name of planet death ray blew up in Star Wars",
+      "answer": "Alderaan",
+      "category": "movies"
+    },
+    {
+      "id": 126,
+      "question": "Who sponsored Wayne's World",
+      "answer": "Noah's Arcade",
+      "category": "movies"
+    },
+    {
+      "id": 127,
+      "question": "Who was first James Bond",
+      "answer": "Barry Nelson, Casino Royale, 1954",
+      "category": "movies"
+    },
+    {
+      "id": 128,
+      "question": "How actors have played James Bond",
+      "answer": "12 actors, and 26 movies in 54 years",
+      "category": "movies"
+    },
+    {
+      "id": 129,
+      "question": "How many James Bond movies",
+      "answer": "12 actors, and 26 movies in 54 years",
+      "category": "movies"
+    },
+    {
+      "id": 130,
+      "question": "Who said Live Long and Prosper",
+      "answer": "Spock",
+      "category": "movies"
+    },
+    {
+      "id": 131,
+      "question": "What did silent film star Bill Turpin insure",
+      "answer": "crazy eyes",
+      "category": "movies"
+    },
+    {
+      "id": 132,
+      "question": "Harry Potter: Who killed Snape",
+      "answer": "Voldemort",
+      "category": "movies"
+    },
+    {
+      "id": 133,
+      "question": "Harry Potter: What is Voldemort real name",
+      "answer": "Tom Marvolo Riddle",
+      "category": "movies"
+    },
+    {
+      "id": 134,
+      "question": "In dazed and confused, Mathew McConaughey played what character",
+      "answer": "David Wooderson",
+      "category": "movies"
+    },
+    {
+      "id": 135,
+      "question": "Which scary movie takes place in the town of Burkittsville, MD",
+      "answer": "Blair Witch Project",
+      "category": "movies"
+    },
+    {
+      "id": 136,
+      "question": "Identify this movie: Guys beating up a Copy Machine",
+      "answer": "Office Space",
+      "category": "movies"
+    },
+    {
+      "id": 137,
+      "question": "How many nightmare on elm streets movies were made in the 80s",
+      "answer": "5, 9 in all",
+      "category": "movies"
+    },
+    {
+      "id": 138,
+      "question": "Which film starring John Candy told story of Jamacian bobsled team",
+      "answer": "Cool Running",
+      "category": "movies"
+    },
+    {
+      "id": 139,
+      "question": "Who voices the female hyena in the Lion King",
+      "answer": "Whoopee Goldberg",
+      "category": "movies"
+    },
+    {
+      "id": 140,
+      "question": "According to JK Rowling, what are muggles",
+      "answer": "Ordinary people without magic",
+      "category": "movies"
+    },
+    {
+      "id": 141,
+      "question": "In Ferris Bueller's Day off, who plays the burnout at the police station that Jeanie kisses",
+      "answer": "Charlie Sheen",
+      "category": "movies"
+    },
+    {
+      "id": 142,
+      "question": "Who are the 2 actors in the last scene of the departed",
+      "answer": "Mark Wahlberg and Matt Damon",
+      "category": "movies"
+    },
+    {
+      "id": 143,
+      "question": "What is the rock opera by the Who that stars Elton John",
+      "answer": "Tommy",
+      "category": "movies"
+    },
+    {
+      "category": "movies",
+      "question": "What is the name of the computer Stanly Kubrick's 2001 A Space Odyssey",
+      "answer": "HAL 9000",
+      "id": 144
+    },
+    {
+      "id": 145,
+      "question": "Singing without instruments is called",
+      "answer": "A Capella",
+      "category": "music"
+    },
+    {
+      "id": 146,
+      "question": "He was assassinated in Dec 8, 1980 in NYC",
+      "answer": "John Lennon",
+      "category": "music"
+    },
+    {
+      "id": 147,
+      "question": "Bowser and Jocko members of what rock band",
+      "answer": "Sha Na na",
+      "category": "music"
+    },
+    {
+      "id": 148,
+      "question": "Hang On Sloopy is official rock song of what US State",
+      "answer": "Ohio",
+      "category": "music"
+    },
+    {
+      "id": 149,
+      "question": "Glass Houses album was done by what artist",
+      "answer": "Billy Joel",
+      "category": "music"
+    },
+    {
+      "id": 150,
+      "question": "What song has young girl, violins, center of her own attention",
+      "answer": "Daughter, Pearl Jam",
+      "category": "music"
+    },
+    {
+      "id": 151,
+      "question": "The Smashing Pumpkins lead single from 1995 album 'Mellon Collie and the Infinite Sadness'. Won Grammy for Best Hard Rock Performance, was band's first Top 40 U.S. hit, peaking at number 22 on the Billboard Hot 100.  Standout lyrics: \"The world is a vampire\" and \"Despite all my rage, I am still just a rat in a cage.\"",
+      "answer": "Bullet with Butterfly Wings",
+      "category": "music"
+    },
+    {
+      "id": 152,
+      "question": "what Who movie stared Elton John",
+      "answer": "Tommy",
+      "category": "music"
+    },
+    {
+      "id": 153,
+      "question": "Identify this band: Jack Black and old guy",
+      "answer": "Tenacious D",
+      "category": "music"
+    },
+    {
+      "id": 154,
+      "question": "What popular performers birthname is Stefani Joanne Angelina Germanotta",
+      "answer": "Lady Gaga",
+      "category": "music"
+    },
+    {
+      "id": 155,
+      "question": "My Name is Mud was on the Pork Soda album released in 1993 by what group",
+      "answer": "Primus",
+      "category": "music"
+    },
+    {
+      "id": 156,
+      "question": "At what temperature centigrade does water boil",
+      "answer": "100",
+      "category": "science"
+    },
+    {
+      "id": 157,
+      "question": "What scale of 0 to 14 is used to measure alkalinity",
+      "answer": "PH",
+      "category": "science"
+    },
+    {
+      "id": 158,
+      "question": "Name of lowest theorectical temperature is known as?",
+      "answer": "Absolute Zero",
+      "category": "science"
+    },
+    {
+      "id": 159,
+      "question": "What branch of math is concerned with prop and relationships of points, lines and angles",
+      "answer": "Geometry",
+      "category": "science"
+    },
+    {
+      "id": 160,
+      "question": "Smallest bone in body",
+      "answer": "Stapes",
+      "category": "science"
+    },
+    {
+      "id": 161,
+      "question": "Largest bone in body ",
+      "answer": "Femur",
+      "category": "science"
+    },
+    {
+      "id": 162,
+      "question": "What does an anemometer measure",
+      "answer": "wind speed",
+      "category": "science"
+    },
+    {
+      "id": 163,
+      "question": "What does the chemical symbol AM represent",
+      "answer": "Americium",
+      "category": "science"
+    },
+    {
+      "category": "science",
+      "question": "What does the chemical symbol Fe represent",
+      "answer": "iron",
+      "id": 164
+    },
+    {
+      "id": 165,
+      "question": "What do you call a person who studies earthquakes",
+      "answer": "seismologist",
+      "category": "science"
+    },
+    {
+      "id": 166,
+      "question": "What is the world's tallest grass",
+      "answer": "giant bamboo",
+      "category": "science"
+    },
+    {
+      "id": 167,
+      "question": "6 oz of orange juice contains the minimum requirement for which vitamin",
+      "answer": "C",
+      "category": "science"
+    },
+    {
+      "id": 168,
+      "question": "Name the largest planet in the solar system",
+      "answer": "Jupiter",
+      "category": "science"
+    },
+    {
+      "id": 169,
+      "question": "An alloy of iron and chromium and nickle makes what?",
+      "answer": "stainless steel",
+      "category": "science"
+    },
+    {
+      "id": 170,
+      "question": "Which vital organ does the adjective renal refer to",
+      "answer": "kidney",
+      "category": "science"
+    },
+    {
+      "id": 171,
+      "question": "How long is a basketball game by international rules and how long in the NBA?",
+      "answer": "40 and 48 minutes. 2 20 min halves, 4 12 min qtrs",
+      "category": "sports"
+    },
+    {
+      "id": 173,
+      "question": "In what popular bar game is the goal to reduce a fixed score, commonly 501 or 301, to zero?",
+      "answer": "Darts",
+      "category": "sports"
+    },
+    {
+      "id": 174,
+      "question": "How many super bowls have gone to OT?",
+      "answer": "1. SB 51. Atlanta and New England",
+      "category": "sports"
+    },
+    {
+      "id": 175,
+      "question": "What do the letters ERA mean in baseball?",
+      "answer": "Earned Run Average",
+      "category": "sports"
+    },
+    {
+      "id": 176,
+      "question": "How many feet wide is a college and pro basketball court",
+      "answer": "50 feet wide, 94 feet long",
+      "category": "sports"
+    },
+    {
+      "id": 177,
+      "question": "What is the value of Q in scrabble",
+      "answer": "10",
+      "category": "sports"
+    },
+    {
+      "category": "sports",
+      "question": "General Choi Hong Hi invented what martial sport?",
+      "answer": "Taekwondo",
+      "id": 178
+    },
+    {
+      "id": 179,
+      "question": "What was combined score of SB 51",
+      "answer": "62",
+      "category": "sports"
+    },
+    {
+      "id": 180,
+      "question": "If you add up all dots on a die, what number",
+      "answer": "21",
+      "category": "sports"
+    },
+    {
+      "id": 181,
+      "question": "Number of times a team is allowed to touch ball in volleyball",
+      "answer": "3",
+      "category": "sports"
+    },
+    {
+      "id": 182,
+      "question": "What is name of stick passed on a track relay race",
+      "answer": "Baton",
+      "category": "sports"
+    },
+    {
+      "id": 183,
+      "question": "What is last event in a Decathalon",
+      "answer": "1500m",
+      "category": "sports"
+    },
+    {
+      "id": 184,
+      "question": "How many total meters are run in a Decathalon",
+      "answer": "2110m. \nDay 1: 100m, long jump, shot put, high jump 400m.\nDay 2: 110m hurdles, discus throw, pole vault, javelin throw, 1500m",
+      "category": "sports"
+    },
+    {
+      "id": 185,
+      "question": "Buckeye Bullet was",
+      "answer": "Jessie Owens",
+      "category": "sports"
+    },
+    {
+      "id": 186,
+      "question": "How many white pieces on chess board",
+      "answer": "16",
+      "category": "sports"
+    },
+    {
+      "id": 187,
+      "question": "How many points on backgammon board",
+      "answer": "24 points. 15 pieces each player",
+      "category": "sports"
+    },
+    {
+      "id": 188,
+      "question": "Who has 7 Sprint Cup wins",
+      "answer": "Dale Earnhart, Jimmy Johnson",
+      "category": "sports"
+    },
+    {
+      "id": 189,
+      "question": "How many NASCAR wins Richard Petty",
+      "answer": "200",
+      "category": "sports"
+    },
+    {
+      "id": 190,
+      "question": "How many wins did Richard Petty have in one season",
+      "answer": "27",
+      "category": "sports"
+    },
+    {
+      "id": 191,
+      "question": "Active drive Jimmy Johnson has how many wins",
+      "answer": "83 as of 9/1/2017",
+      "category": "sports"
+    },
+    {
+      "id": 192,
+      "question": "Who was the NBA MVP in 1976, 1977, and 1980",
+      "answer": "Kareem Abdul-Jabbar",
+      "category": "sports"
+    },
+    {
+      "id": 193,
+      "question": "How many games must you win to win a normal set in tennis",
+      "answer": "6",
+      "category": "sports"
+    },
+    {
+      "id": 194,
+      "question": "In 1972 she was sports illustrated first female sportsman of the year",
+      "answer": "Billy Jean King",
+      "category": "sports"
+    },
+    {
+      "id": 195,
+      "question": "What vehicles are involved in the Tour de France",
+      "answer": "bicycles",
+      "category": "sports"
+    },
+    {
+      "id": 196,
+      "question": "What surface is Tennis French Open played on",
+      "answer": "clay",
+      "category": "sports"
+    },
+    {
+      "id": 197,
+      "question": "Hack, hog line, and house are terms in what sport",
+      "answer": "curling",
+      "category": "sports"
+    },
+    {
+      "id": 198,
+      "question": "How many fights did Muhammad Ali WIN during his career",
+      "answer": "56 of 61 fights",
+      "category": "sports"
+    },
+    {
+      "id": 199,
+      "question": "How many players are fielded on a soccer team?",
+      "answer": "11 fielded, 18 on roster",
+      "category": "sports"
+    },
+    {
+      "id": 200,
+      "question": "What is the mechanical animal that greyhounds chase during a race",
+      "answer": "rabbit, hare",
+      "category": "sports"
+    },
+    {
+      "id": 201,
+      "question": "Who created the Muppets?",
+      "answer": "Jim Hensen",
+      "category": "tv"
+    },
+    {
+      "id": 202,
+      "question": "What is the Muppets theme song?",
+      "answer": "\"The Muppet Show Theme\"\nAt the end of the song, Gonzo the Great appeared onstage to play the final note, with various comical results. For the first series, he struck the O in the show's logo as a gong; in all other series, he appeared within the O to play a trumpet",
+      "category": "tv"
+    },
+    {
+      "id": 203,
+      "question": "What is the setting for the Muppet Show",
+      "answer": "The Muppet Theater is the setting for The Muppet Show, a grand old vaudeville house in New York City that has seen better days. In episode 106, Kermit identifies the name of the theatre as The Benny Vandergast Memorial Theater, although by the time of It's a Very Merry Muppet Christmas Movie, it is simply called \"The Muppet Theater.",
+      "category": "tv"
+    },
+    {
+      "id": 204,
+      "question": "Where were the Muppet Show recorded?",
+      "answer": "The programs were recorded at Elstree Studios, England",
+      "category": "tv"
+    },
+    {
+      "id": 205,
+      "question": "How many Emmy's did Muppet Show win?",
+      "answer": "4. Nominated 21 times\nAlso won 1 Grammy",
+      "category": "tv"
+    },
+    {
+      "id": 206,
+      "question": "How many seasons and episodes of the Muppet Show?",
+      "answer": "5 season 1976-1981 and 120 episodes",
+      "category": "tv"
+    },
+    {
+      "id": 207,
+      "question": "How did each Muppet Show end?",
+      "answer": "Each episode ended with an extended instrumental performance of \"The Muppet Show Theme\" by the Muppet orchestra before Statler and Waldorf gave the last laugh of the night. ",
+      "category": "tv"
+    },
+    {
+      "id": 208,
+      "question": "On Muppet Show, what kind of creature is Sam?",
+      "answer": "Eagle",
+      "category": "tv"
+    },
+    {
+      "id": 209,
+      "question": "In 2012, who succeeded Ann Curry as co-anchor of The Today Show?",
+      "answer": "Savannah Guthrie",
+      "category": "tv"
+    },
+    {
+      "category": "tv",
+      "question": "Who is Scooby Doo's nephew",
+      "answer": "Scrappy Doo",
+      "id": 210
+    },
+    {
+      "id": 211,
+      "question": "What detective lived in Cabot Cove, ME",
+      "answer": "Jessica Fletcher. Angela Lansbury, Murder She Wrote",
+      "category": "tv"
+    },
+    {
+      "id": 212,
+      "question": "On Family Guy, what is Lois' maiden name",
+      "answer": "Pewterschmidt",
+      "category": "tv"
+    },
+    {
+      "id": 213,
+      "question": "Lois and Peter Griffin in Family Guy live in what city",
+      "answer": "Quahog, RI",
+      "category": "tv"
+    },
+    {
+      "category": "tv",
+      "question": "Who are the Family Guy children?",
+      "answer": "3. Meg, Chris, Stewie. Talking dog Brian, sips martinis",
+      "id": 214
+    },
+    {
+      "id": 215,
+      "question": "Creator of Family Guy",
+      "answer": "Seth McFarlane",
+      "category": "tv"
+    },
+    {
+      "id": 216,
+      "question": "What was names of lead characters in X Files",
+      "answer": "Mulder and Scully",
+      "category": "tv"
+    },
+    {
+      "id": 217,
+      "question": "What was Cindy's doll on Brady Bunch",
+      "answer": "Kitty Carrie All",
+      "category": "tv"
+    },
+    {
+      "id": 218,
+      "question": "Homer Simpson's beer",
+      "answer": "Duff",
+      "category": "tv"
+    },
+    {
+      "id": 219,
+      "question": "Who owns Home Simpson's work Nuke Plant",
+      "answer": "Founded by: Waynewright Montgomery Burns, current: Charles Montgomery Burns",
+      "category": "tv"
+    },
+    {
+      "id": 220,
+      "question": "Who is mayor of Home Simpsons town (Springfield?)",
+      "answer": "Joe Quimby",
+      "category": "tv"
+    },
+    {
+      "id": 221,
+      "question": "What sci-fi TV show had a sentiment biomechanical ship named Moya",
+      "answer": "Farscape",
+      "category": "tv"
+    },
+    {
+      "id": 222,
+      "question": "Last guest on David Letterman's",
+      "answer": "Bill Murray. Foo Fighters last band",
+      "category": "tv"
+    },
+    {
+      "id": 223,
+      "question": "Who is fond of saying 'I will gladly pay you tuesday, for a hamburger today'?",
+      "answer": "Wimpy",
+      "category": "tv"
+    },
+    {
+      "id": 224,
+      "question": "Rick and Morty wing sauce",
+      "answer": "Szechuan",
+      "category": "tv"
+    },
+    {
+      "id": 225,
+      "question": "What show made wearing a green lycra suit popular",
+      "answer": "Always Sunny in Philadelphia",
+      "category": "tv"
+    },
+    {
+      "id": 226,
+      "question": "Who was killer of Laura on Twin Peaks",
+      "answer": "Father Leland Palmer, aka Killer Bob",
+      "category": "tv"
+    },
+    {
+      "id": 227,
+      "question": "Agent Cooper made reports how?",
+      "answer": "On micro-recorder to mystery woman Dianne",
+      "category": "tv"
+    },
+    {
+      "id": 228,
+      "question": "What actor played Mork and Mindy's child",
+      "answer": "Jonathon Winters, Mearth",
+      "category": "tv"
+    },
+    {
+      "id": 229,
+      "question": "What city had sign that said Mork doesn't live here",
+      "answer": "Boulder Colorado",
+      "category": "tv"
+    },
+    {
+      "id": 230,
+      "question": "Who did Rachel not have a relationship with on Friends",
+      "answer": "Chandler Bing",
+      "category": "tv"
+    },
+    {
+      "id": 231,
+      "question": "Alien creature on Bugs Bunny",
+      "answer": "Marvin the Martian",
+      "category": "tv"
+    },
+    {
+      "id": 232,
+      "question": "Seth McFarlane Star Trek TV Show",
+      "answer": "Orville, named after Wright brothers. Seth is Capt Ed Mercer",
+      "category": "tv"
+    },
+    {
+      "id": 233,
+      "question": "Capt Ed Mercer",
+      "answer": "Seth McFarlane's charcter on Orville. BTW Peter Griffin's ex-girlfriend has same last name (gretchen mercer)",
+      "category": "tv"
+    },
+    {
+      "id": 234,
+      "question": "Alvin and Simon had a brother named?",
+      "answer": "Theodore",
+      "category": "tv"
+    },
+    {
+      "id": 235,
+      "question": "Bowling for Lizard was whose favorite TV show?",
+      "answer": "Fred Flintstone",
+      "category": "tv"
+    },
+    {
+      "id": 236,
+      "question": "What was 1975 Muppet pilot?",
+      "answer": "The Muppet Show: Sex and Violence",
+      "category": "tv"
+    },
+    {
+      "id": 237,
+      "question": "What was 1974 Muppet pilot?",
+      "answer": "The Muppets Valentine Show",
+      "category": "tv"
+    },
+    {
+      "id": 238,
+      "question": "What was the name of the house band on the Muppet Show",
+      "answer": "Dr Teeth and the Electric Mayhem",
+      "category": "tv"
+    },
+    {
+      "id": 239,
+      "question": "In the TV show the Simpsons, who or what is Santa's Little Helper",
+      "answer": "their pet dog, a greyhound",
+      "category": "tv"
+    },
+    {
+      "id": 240,
+      "question": "What kind of creature was Sam on the muppet show?",
+      "answer": "Eagle",
+      "category": "tv"
+    },
+    {
+      "id": 241,
+      "question": "Which cartoon tv family adopted a greyhound for Christmas",
+      "answer": "Simpsons. Santa's Little Helper",
+      "category": "tv"
+    },
+    {
+      "id": 242,
+      "question": "Tinky Winky, Dipsy Lala and Po are known as what",
+      "answer": "Teletubbies",
+      "category": "tv"
+    },
+    {
+      "id": 243,
+      "question": "Who played commander Riker in 'Star Trek: The Next Generation'?",
+      "answer": "Jonathan Frakes",
+      "category": "tv"
+    },
+    {
+      "id": 244,
+      "question": "What was 'Rocky's' last name?",
+      "answer": "Balboa",
+      "category": "movies"
+    },
+    {
+      "id": 245,
+      "question": "According to The Hitchhiker's Guide to the Galaxy, what is the answer to Life, the Universe, and Everything?",
+      "answer": "42",
+      "category": "arts"
+    },
+    {
+      "id": 246,
+      "question": "In 1981 James Brady was shot during an attempt to assassinate whom?",
+      "answer": "Ronald Reagan",
+      "category": "history"
+    },
+    {
+      "id": 247,
+      "question": "What sport does/did Phil Esposito, Mario Lemieux, and Bobby Orr play?",
+      "answer": "hockey",
+      "category": "sports"
+    },
+    {
+      "id": 248,
+      "question": "What color is Sonic the Hedgehog?",
+      "answer": "blue",
+      "category": "sports"
+    },
+    {
+      "id": 249,
+      "question": "On the hit show 'Seinfeld', what was Kramer's first name?",
+      "answer": "Cosmo",
+      "category": "tv"
+    },
+    {
+      "id": 250,
+      "question": "An astronomical unit is a standard unit of measurement in astronomy. It's distance is derived from the distance from the earth to where?",
+      "answer": "The Sun (93 million miles)",
+      "category": "science"
+    },
+    {
+      "id": 251,
+      "question": "A cat has how many muscles in each ear?",
+      "answer": "A cat has 32 muscles in each ear, compared to a human's 6 muscles each. A cat can rotate its ears independently 180 degrees, and turn in the direction of sound 10 times faster than those of the best watchdog",
+      "category": "science"
+    },
+    {
+      "id": 252,
+      "question": "In 'The Muppet Show', what was the name of Gonzo's fowl love interest?",
+      "answer": "Camilla the chicken",
+      "category": "tv"
+    },
+    {
+      "id": 253,
+      "question": "What was the title of the first ever James Bond novel?",
+      "answer": "Casino Royale",
+      "category": "movies"
+    },
+    {
+      "id": 254,
+      "question": "Who played 'Johnny Mnemonic'?",
+      "answer": "Keanu Reeves",
+      "category": "movies"
+    },
+    {
+      "id": 255,
+      "question": "What detective duo was featured in 'The Mystery at Devil's Paw'?",
+      "answer": "Hardy Boys",
+      "category": "arts"
+    },
+    {
+      "id": 256,
+      "question": "What do you call deep freezing the bodies of people who have died of an incurable disease in the hope of a future cure?",
+      "answer": "Cryonics/Cryogenics",
+      "category": "science"
+    },
+    {
+      "id": 257,
+      "question": "What are Blue Mountain, Caturra, and Mocha types of?",
+      "answer": "Coffee",
+      "category": "food"
+    },
+    {
+      "id": 258,
+      "question": "Who was the American inventor and teacher of the deaf, most famous for his invention of the Telephone?",
+      "answer": "Alexander Graham Bell",
+      "category": "science"
+    },
+    {
+      "id": 259,
+      "question": "From what is the liqueur Kirsch made?",
+      "answer": "Cherries",
+      "category": "food"
+    },
+    {
+      "id": 260,
+      "question": "John Travolta, Samuel Jackson, and Uma Thurman starred in which 1994 Quentin Tarantino film?",
+      "answer": "Pulp Fiction",
+      "category": "movies"
+    },
+    {
+      "id": 261,
+      "question": "What Aerosmith song was written about Vince Neil of Motley Crue?",
+      "answer": "Dude looks like a lady",
+      "category": "music"
+    },
+    {
+      "id": 262,
+      "question": "On which coast of Australia is Sydney?",
+      "answer": "Australia's east coast",
+      "category": "geography"
+    },
+    {
+      "question": "Groundhog Day is on what date in February.",
+      "answer": "2nd",
+      "id": 263,
+      "category": "general"
+    },
+    {
+      "question": "In which film did Paul Newman and Robert Redford hold hands and jump off a cliff into a river?",
+      "answer": "Butch Cassidy and the Sundance Kid",
+      "id": 264,
+      "category": "movies"
+    },
+    {
+      "question": "In 2012, who joined Dan Marino and Peyton Manning as the third quarterback to throw 20 or more touchdown passes in each of his first two seasons?",
+      "answer": "Andy Dalton",
+      "id": 265,
+      "category": "sports"
+    },
+    {
+      "question": "The name of this mid 90s dial up service also means having great talent at a young age.",
+      "answer": "Prodigy",
+      "id": 266,
+      "category": "general"
+    },
+    {
+      "question": "What color is the pacifier that Maggie Simpson generally has in her mouth on the TV show ‘The Simpsons’?",
+      "answer": "Red",
+      "id": 267,
+      "category": "tv"
+    },
+    {
+      "question": "What was one of the first game systems that actually enabled an internet connection and was known to have really good graphics at that time? Some of the classics for that system are \"Sonic Adventure\" and \"House of the Dead 2\".",
+      "answer": "Sega Dreamcast",
+      "id": 268,
+      "category": "games"
+    },
+    {
+      "question": "What sport has a hooker in a scrum?",
+      "answer": "Rugby",
+      "id": 269,
+      "category": "sports"
+    },
+    {
+      "question": "Which Scottish Dish Is Boiled In The Stomach Lining Of A Sheep",
+      "answer": "Haggis",
+      "id": 270,
+      "category": "food"
+    },
+    {
+      "question": "Dr. Seuss wrote this book: The Cat in the ______.",
+      "answer": "Hat",
+      "id": 271,
+      "category": "arts"
+    },
+    {
+      "question": "How many wheels does a unicycle have?",
+      "answer": " 1 wheel",
+      "id": 272,
+      "category": "general"
+    },
+    {
+      "question": "In which USA state is Frankfort the capital",
+      "answer": "Kentucky",
+      "id": 273,
+      "category": "geography"
+    },
+    {
+      "question": "A moist fertile spot in a desert is called a(n)",
+      "answer": "Oasis",
+      "id": 274,
+      "category": "science"
+    },
+    {
+      "question": "A Black Russian cocktail is made with one part coffee liqueur and two parts of which spirit?",
+      "answer": "Vodka",
+      "id": 275,
+      "category": "food"
+    },
+    {
+      "question": "How long is a Martian year in earth days?",
+      "answer": "686.9726 days",
+      "id": 276,
+      "category": "science"
+    },
+    {
+      "question": "Grover Cleveland is the only United States president to have been married where?",
+      "answer": "White House",
+      "id": 277,
+      "category": "history"
+    },
+    {
+      "question": "Meaning 'fresh' in Italian. What is the technique of painting on wet plaster with watercolors.",
+      "answer": "Fresco",
+      "id": 278,
+      "category": "arts"
+    },
+    {
+      "question": "What Is The Name Given To The Flat Indian Bread Resembling A Pancake?",
+      "answer": "Chapati",
+      "id": 279,
+      "category": "food"
+    },
+    {
+      "question": "When Tweety exclaimed, 'I thought I saw a putty tat!', who did he see?",
+      "answer": "Sylvester the Cat",
+      "id": 280,
+      "category": "tv"
+    },
+    {
+      "question": "What is another name for the card game 'Twenty-one'?",
+      "answer": "Blackjack",
+      "id": 281,
+      "category": "games"
+    },
+    {
+      "question": "In which John Steinbeck story features the slow-witted Lennie and his friend George?",
+      "answer": "Of Mice &amp; Men",
+      "id": 282,
+      "category": "arts"
+    },
+    {
+      "question": "What common allergens are the male sex cells of plants?",
+      "answer": "Pollen",
+      "id": 283,
+      "category": "science"
+    },
+    {
+      "question": "Which 1976 film starring John Travolta is about a persecuted schoolgirl with psychokinetic powers?",
+      "answer": "Carrie",
+      "id": 284,
+      "category": "movies"
+    },
+    {
+      "question": "Thank you for playing<br>Team Trivia!",
+      "answer": "",
+      "id": 285
+    },
+    {
+      "question": "How many moons does Saturn have?",
+      "answer": "62. Titan is largest",
+      "id": 286,
+      "category": "science"
+    },
+    {
+      "question": "How many moons does Jupiter have?",
+      "answer": "69. Galilean moons of Jupiter (Io, Europa, Ganymede, and Callisto)",
+      "id": 287,
+      "category": "science"
+    },
+    {
+      "id": 288,
+      "question": "What does the chemical symbol Br represent",
+      "answer": "Bromine",
+      "category": "science"
+    },
+    {
+      "id": 290,
+      "question": "What does the chemical symbol W represent",
+      "answer": "Tungsten",
+      "category": "science"
+    },
+    {
+      "id": 291,
+      "question": "What does the chemical symbol Au represent",
+      "answer": "Gold",
+      "category": "science"
+    },
+    {
+      "id": 292,
+      "question": "Name the 4 stations in monopoly",
+      "answer": "Fenchurch Street, Liverpool Street, Kings Cross, Marylebone",
+      "category": "games"
+    },
+    {
+      "id": 293,
+      "question": "In Animal Farm Benjamin was what type of creature",
+      "answer": "donkey",
+      "category": "movies"
+    },
+    {
+      "id": 294,
+      "question": "He assassinated John Lennon on December 8 1980",
+      "answer": "Mark Chapman",
+      "category": "music"
+    },
+    {
+      "id": 295,
+      "question": "Which sport combines rifle shooting & cross country skiing",
+      "answer": "The Biathlon",
+      "category": "sports"
+    },
+    {
+      "id": 296,
+      "question": "What actress has received the most oscar nominations?",
+      "answer": "Meryl Streep",
+      "category": "movies"
+    },
+    {
+      "id": 297,
+      "question": "A type of violin-like musical instrument turned by hand",
+      "answer": "Hurdy-Gurdy",
+      "category": "music"
+    },
+    {
+      "id": 298,
+      "question": "Who are Mickey Mouse's Nephews?",
+      "answer": "Mortie and Ferdie",
+      "category": "tv"
+    },
+    {
+      "id": 299,
+      "question": "Pigs Eye was the original name of what Minnesota City",
+      "answer": "St Paul",
+      "category": "geography"
+    },
+    {
+      "id": 300,
+      "question": "In our Solar System there are 2 Mount Olympus's. One is in Greece, where is the other?",
+      "answer": "Mars",
+      "category": "geography"
+    },
+    {
+      "id": 301,
+      "question": "In China in 2015 the record for the longest mating session between two giant pandas was broken at: 3 minutes, 18 minutes, 2 hours, or 27 hours?",
+      "answer": "18 minutes",
+      "category": "animal"
+    },
+    {
+      "id": 302,
+      "question": "What is the largest US State by area?",
+      "answer": "Alaska",
+      "category": "geography"
+    },
+    {
+      "id": 303,
+      "question": "What was Fuller drinking before bed time in 'Home Alone'?",
+      "answer": "Pepsi",
+      "category": "movies"
+    },
+    {
+      "id": 304,
+      "question": "Name the singer whose songs include 'Me & Bobby McGee', and 'Mercedes Benz'.",
+      "answer": "Janis Joplin",
+      "category": "music"
+    },
+    {
+      "category": "animals",
+      "question": "Collective Nouns - An Obstinacy is a group of what?",
+      "answer": "Buffalos",
+      "id": 305
+    },
+    {
+      "id": 306,
+      "question": "If you were taking a ride on the Maid of the Mist, what tourist destination would you be visiting?",
+      "answer": "Niagara Falls",
+      "category": "geography"
+    },
+    {
+      "id": 307,
+      "question": "In 'Home Alone', what does Kevin mistakenly steal?",
+      "answer": "a toothbrush",
+      "category": "movies"
+    },
+    {
+      "id": 308,
+      "question": "The city of Fort Wayne  supplies residents with ___________ US gallons of water per day.",
+      "answer": "72 Million",
+      "category": "general"
+    },
+    {
+      "id": 309,
+      "question": "Which bone is the Patella?",
+      "answer": "The Knee Cap",
+      "category": "medicine"
+    },
+    {
+      "id": 310,
+      "question": "According to Frankin D. Roosevelt, what is the only thing we have to fear?",
+      "answer": "fear itself",
+      "category": "history"
+    },
+    {
+      "id": 311,
+      "question": "Which Presidential drama began in 1999 and ran until 2006 and featured actors like Allison Janney, Martin Sheen, Rob Lowe, and John Spencer?",
+      "answer": "The West Wing",
+      "category": "tv"
+    },
+    {
+      "id": 312,
+      "question": "What are bottles of Chianti traditionally covered with?",
+      "answer": "A fiasco, straw basket",
+      "category": "food"
+    },
+    {
+      "id": 313,
+      "question": "According to National Geographic, what's the most toxic snake in the world?",
+      "answer": "The Indian Taipan. It packs enough venom to kill a hundred people in one bite.",
+      "category": "animal"
+    },
+    {
+      "id": 314,
+      "question": "Fill in the blank. \"There's no ____________ in baseball!\"",
+      "answer": "Crying",
+      "category": "movies"
+    },
+    {
+      "id": 315,
+      "question": "Name the 3 female characters in the game Clue.",
+      "answer": "Mrs White, Miss Scarlet, Mrs Peacock",
+      "category": "games"
+    },
+    {
+      "id": 316,
+      "question": "The TV show 'Mork & Mindy' was a spin-off from what other sitcom?",
+      "answer": "Happy Days",
+      "category": "tv"
+    },
+    {
+      "id": 317,
+      "question": "What is the capital of Virginia",
+      "answer": "Richmond",
+      "category": "geography"
+    },
+    {
+      "id": 318,
+      "question": "What is the name of the rabbit in the film, 'Bambi'?",
+      "answer": "Thumper",
+      "category": "movies"
+    },
+    {
+      "question": "What Shakespearean play features the line: A plague on both your houses?",
+      "answer": "Romeo and Juliet",
+      "category": "arts",
+      "id": 319
+    },
+    {
+      "category": "automobile",
+      "question": "What auto manufacturer has the most '24 Hours Of Le Mans' wins?",
+      "answer": "Porsche\nBetween 1970 and 2017, Porsche has 19",
+      "id": 320
+    },
+    {
+      "category": "science",
+      "question": "What planet in our solar system is closest in size to the earth?",
+      "answer": "Venus",
+      "id": 321
+    },
+    {
+      "category": "arts",
+      "question": "In Greek legend, Zeus wooed Europa, daughter of King Agenor, in the form of which animal?",
+      "answer": "Bull",
+      "id": 322
+    },
+    {
+      "category": "geography",
+      "question": "What is the capital of Libya?",
+      "answer": "Tripoli",
+      "id": 323
+    },
+    {
+      "category": "general",
+      "question": "What does a cooper make?",
+      "answer": "Barrels",
+      "id": 324
+    },
+    {
+      "category": "arts",
+      "question": "Japanese haiku poems loosely comprise how many syllables?",
+      "answer": "17",
+      "id": 325
+    },
+    {
+      "category": "sports",
+      "question": "In boxing what is a TKO?",
+      "answer": "Technical Knock Out",
+      "id": 326
+    },
+    {
+      "question": "What Hunter S. Thompson novel follows Journalist Raul Duke and his attorney Dr. Gonzo?",
+      "answer": "Fear and Loathing in Las Vegas",
+      "category": "",
+      "id": 327
+    },
+    {
+      "category": "general",
+      "question": "How many branches are there in the Allen County Public Library system?",
+      "answer": "14",
+      "id": 328
+    },
+    {
+      "question": "Macaulay Caulkin's folks left him \"Home Alone\" in the original 1990 movie. Where did they go?",
+      "answer": "Paris",
+      "category": "",
+      "id": 329
+    },
+    {
+      "category": "Jesse Owen",
+      "question": "Which black athelete's successes at the Berlin Olympics caused Hitler to storm out of the stadium?",
+      "answer": "Jesse Owens",
+      "id": 330
+    },
+    {
+      "category": "arts",
+      "question": "Who wrote 'The Pelican Brief'?",
+      "answer": "John Grisham",
+      "id": 331
+    },
+    {
+      "category": "tv",
+      "question": "Which science fiction character is known for the phrase 'Bowties are cool!'?",
+      "answer": "Doctor Who",
+      "id": 332
+    },
+    {
+      "question": "What number is missing from the series: 1 8 27 ?? 125 216?",
+      "answer": "64 (4 cubed)",
+      "category": "general",
+      "id": 333
+    },
+    {
+      "category": "sports",
+      "question": "Name the sport where the defending team is always in possession of the ball, and the attacking team can score without even touching it?",
+      "answer": "Baseball",
+      "id": 334
+    },
+    {
+      "category": "geography",
+      "question": "U.S. Captials - South Dakota",
+      "answer": "Pierre",
+      "id": 335
+    },
+    {
+      "category": "general",
+      "question": "What is Taurophobia?",
+      "answer": "The fear of bulls",
+      "id": 336
+    },
+    {
+      "category": "history",
+      "question": "Which astronaut did Tom Hanks play in the film 'Apollo 13'?",
+      "answer": "Jim Lovell",
+      "id": 337
+    },
+    {
+      "category": "geography",
+      "question": "Where is the Rock and Roll Hall Of Fame?",
+      "answer": "Cleveland, Ohio",
+      "id": 338
+    },
+    {
+      "question": "Sound navigation is better known as _______________?",
+      "answer": "Sonar",
+      "category": "science",
+      "id": 339
+    },
+    {
+      "question": "Who wrote \"The Old Man and the Sea\"?",
+      "answer": "Ernest Hemmingway",
+      "category": "arts",
+      "id": 340
+    },
+    {
+      "question": "In which organ is the hypothalamus located?",
+      "answer": "brain",
+      "category": "medicine",
+      "id": 341
+    },
+    {
+      "question": "A professional boxer is limited to 36 feet - feet of what",
+      "answer": "bandages on hands",
+      "category": "sports",
+      "id": 342
+    },
+    {
+      "question": "If you walk into a bar and everyone yells \"Norm!\", what television show are they referencing?",
+      "answer": "Cheers",
+      "category": "tv",
+      "id": 343
+    },
+    {
+      "question": "What was Picasso's first name?",
+      "answer": "Pablo",
+      "category": "arts",
+      "id": 344
+    },
+    {
+      "question": "Name the band - songs include \"monday monday\" and \"california dreamin'\"?",
+      "answer": "the mamas and the papas",
+      "category": "music",
+      "id": 345
+    },
+    {
+      "question": "which american artist is known for a portrait of his mother?",
+      "answer": "James Whistler",
+      "category": "arts",
+      "id": 346
+    },
+    {
+      "question": "Per Capita, what U.S. State drinks the most beer?",
+      "answer": "New Hampshire: 41.7 gallons/person/year",
+      "category": "food",
+      "id": 347
+    },
+    {
+      "question": "What does the acronym  'S.A.M.' mean in SAM missiles>",
+      "answer": "Surface to Air Missiles",
+      "category": "science",
+      "id": 348
+    },
+    {
+      "question": "'The Diary of Anne Frank' was first published in English under what title?",
+      "answer": "'Diary of a young girl'",
+      "category": "arts",
+      "id": 349
+    },
+    {
+      "question": "If the TV show that you're watching has characters that include little joe, hoss, and adam what are you watching?",
+      "answer": "bonanza",
+      "category": "tv",
+      "id": 350
+    },
+    {
+      "question": "Name Li'l Abners's favorite 'Indian' drink.",
+      "answer": "Kickapoo Joy juice",
+      "category": "arts",
+      "id": 351
+    },
+    {
+      "question": "In 'Home Alone;, how many kids are in the McCallister's house before they leave for the airport?",
+      "answer": "11",
+      "category": "movies",
+      "id": 352
+    },
+    {
+      "category": "history",
+      "question": "Locomotion no. 1 was the first steam locomotive to carry passengers on a public rail line, the stockton and darlington railway, in what year?",
+      "answer": "1825",
+      "id": 353
+    },
+    {
+      "category": "general",
+      "question": "Beatification",
+      "answer": "\"blessed\" and facere, \"to make\") is a recognition accorded by the Catholic Church of a dead person's entrance into Heaven and capacity to intercede on behalf of individuals who pray in his or her name",
+      "id": 354
+    },
+    {
+      "category": "movies",
+      "question": "James Bond Official Title",
+      "answer": "Commander James Bond RN - code number 007",
+      "id": 355
+    },
+    {
+      "category": "movies",
+      "question": "Live and Let Die Theme Song",
+      "answer": "Paul McCartney and the Wings, 1973. First James Bond theme to appear on Billboard top ten. It was 2",
+      "id": 356
+    },
+    {
+      "category": "movies",
+      "question": "What kind of car does James Bond drive in Moonraker",
+      "answer": "none. In movies, Aston Martin DB5 wasn't really the first Bond car. In Dr. No he drove a Sunbeam Alpine and in most books he drove prewar Bentley",
+      "id": 357
+    },
+    {
+      "category": "movies",
+      "question": "James Bond novel author",
+      "answer": "Ian Fleming. He a commander of navel intelligence during WWII. Wrote 12 spy novels and 2 short stories featuring 007.",
+      "id": 358
+    },
+    {
+      "category": "movies",
+      "question": "1st James Bond Movie",
+      "answer": "Dr No, 1962 Sean Connery",
+      "id": 359
+    },
+    {
+      "category": "movies",
+      "question": "2nd James Bond Actor in Film",
+      "answer": "George Lazenby. Her Majesty's Secret Service. 1969",
+      "id": 360
+    },
+    {
+      "category": "movies",
+      "question": "James Bond Golden Eye actor",
+      "answer": "Pierce Bronson, 1995",
+      "id": 361
+    },
+    {
+      "category": "movies",
+      "question": "What James Bond film features Christopher Walken as Billionaire Max Zoren",
+      "answer": "A View to a Kill, 1985",
+      "id": 362
+    },
+    {
+      "category": "movies",
+      "question": "What was original title of License to Kill",
+      "answer": "License Revoked, 1989",
+      "id": 363
+    },
+    {
+      "category": "movies",
+      "question": "What was first James Bond movie not based on a book?",
+      "answer": "The Spy Who Loved Me, 1977 ",
+      "id": 364
+    },
+    {
+      "category": "movies",
+      "question": "What was secret servive agency does James Bond work for?",
+      "answer": "MI6, Military Intelligence section 6",
+      "id": 365
+    },
+    {
+      "category": "movies",
+      "question": "Who was first actor to play M in James Bond?",
+      "answer": "Bernard Lee",
+      "id": 366
+    },
+    {
+      "category": "movies",
+      "question": "James Bond SPECTRE stands for?",
+      "answer": "Special Executive for Counter-Intelligence Terrorism Revenge and Extortion",
+      "id": 367
+    },
+    {
+      "question": "What planet is closest to the Sun?",
+      "answer": "Mercury",
+      "category": "science",
+      "id": 368
+    },
+    {
+      "question": "Played by Peter Falk, name this characters Television series.<br><div class=\"questNum\">Answer:</div><div class=\"question\">Columbo</div><img src=\"/host/question_images/1461182001.jpg\" class=\"identifyImage\">",
+      "answer": "Columbo",
+      "category": "tv",
+      "id": 369
+    },
+    {
+      "question": "Who created James Bond?",
+      "answer": "Ian Fleming",
+      "category": "",
+      "id": 370
+    },
+    {
+      "category": "history",
+      "question": "Which gangster famously escaped from an Indiana jail using a wooden gun?",
+      "answer": "John Dillinger",
+      "id": 371
+    },
+    {
+      "category": "animals",
+      "question": "What travels in gaggles?",
+      "answer": "Geese",
+      "id": 372
+    },
+    {
+      "category": "arts",
+      "question": "Don Quixote fought them believing they were giants. What were they actually?",
+      "answer": "Windmills",
+      "id": 373
+    },
+    {
+      "category": "sports",
+      "question": "Who was known as 'The Sultan of Swat'?",
+      "answer": "Babe Ruth",
+      "id": 374
+    },
+    {
+      "category": "science",
+      "question": "This instrument measures atmospheric pressure.",
+      "answer": "Barometer",
+      "id": 375
+    },
+    {
+      "question": "Which weighs more, An Ice Hockey Puck or a Baseball?",
+      "answer": "An Ice Hockey Puck",
+      "category": "",
+      "id": 376
+    },
+    {
+      "category": "animal",
+      "question": "What Animal's body does the mythical griffin have?",
+      "answer": "Lion",
+      "id": 377
+    },
+    {
+      "question": "How many US states border an ocean?",
+      "answer": "23",
+      "category": "",
+      "id": 378
+    },
+    {
+      "question": "What is the capital of Mexico ?",
+      "answer": "Mexico City",
+      "category": "",
+      "id": 379
+    },
+    {
+      "category": "movies",
+      "question": "Which 1977 film won seven Oscars but none for acting",
+      "answer": "Star Wars",
+      "id": 380
+    },
+    {
+      "category": "sports",
+      "question": "To bowl a perfect 300 game, how many strikes must you roll?",
+      "answer": "12",
+      "id": 381
+    },
+    {
+      "category": "general",
+      "question": "What does AWOL stand for?",
+      "answer": "Absent without leave",
+      "id": 382
+    },
+    {
+      "question": "What ice cream flavor was created in 1929 when William Dreyer cut up marshmallows and walnuts and added them to his ice cream?",
+      "answer": "Rocky Road",
+      "category": "",
+      "id": 383
+    },
+    {
+      "question": "A typhoon struck which island in Japan in 1934, killing 4,000 people",
+      "answer": "Honshu",
+      "category": "",
+      "id": 384
+    },
+    {
+      "category": "sports",
+      "question": "In which sport would you see a Boston Crab or a Full Nelson",
+      "answer": "Wrestling",
+      "id": 385
+    },
+    {
+      "category": "movies",
+      "question": "What gun does James Bond traditionally use?",
+      "answer": "A Walther PPK",
+      "id": 386
+    },
+    {
+      "category": "arts",
+      "question": "His wife was penelope and his sons, telemachus. He was exiled from his home of ithaca for angering the gods",
+      "answer": "Odysseus",
+      "id": 387
+    },
+    {
+      "category": "movies",
+      "question": "In the James Bond movies, to who is M's secretary?",
+      "answer": "Miss Money Penney",
+      "id": 388
+    },
+    {
+      "category": "science",
+      "question": "How many corners are in a cube",
+      "answer": "eight",
+      "id": 389
+    },
+    {
+      "category": "movies",
+      "question": "What film found Bruce Willis at Fhloston Paradise",
+      "answer": "The Fifth Element",
+      "id": 390
+    },
+    {
+      "category": "food",
+      "question": "What type of pasta resembles a Bow-Tie Shape",
+      "answer": "Farfalle",
+      "id": 391
+    },
+    {
+      "category": "animals",
+      "question": "What is a young otter called?",
+      "answer": "Whelp",
+      "id": 392
+    },
+    {
+      "category": "history",
+      "question": "What city did the allies liberate on August 25th 1944?",
+      "answer": "Paris",
+      "id": 393
+    },
+    {
+      "category": "arts",
+      "question": "Which painter reputedly cut off his own ear?",
+      "answer": "Vincent Van Gogh",
+      "id": 394
+    },
+    {
+      "category": "science",
+      "question": "How many faces does a dodecahedron have?",
+      "answer": "12",
+      "id": 395
+    },
+    {
+      "category": "music",
+      "question": "What country music singer was declared dead on new years day 1953 at the age of 29",
+      "answer": "Hank Williams",
+      "id": 396
+    },
+    {
+      "category": "music",
+      "question": "Which orchestral instrument can play the highest note",
+      "answer": "The violin",
+      "id": 397
+    },
+    {
+      "category": "food",
+      "question": "The prongs on a fork are actually known as what?",
+      "answer": "Tines",
+      "id": 398
+    },
+    {
+      "category": "geography",
+      "question": "What is the easternmost U.S. State Captital?",
+      "answer": "Augusta (Maine)",
+      "id": 399
+    },
+    {
+      "category": "sports",
+      "question": "Which toy was originally called the Pluto Platter when it first was introduced in 1957?",
+      "answer": "Frisbee",
+      "id": 400
+    },
+    {
+      "category": "tv",
+      "question": "Kelsey Grammar sang and played the theme song for which TV show?",
+      "answer": "Frasier",
+      "id": 401
+    },
+    {
+      "category": "movies",
+      "question": "Cary Grant and Noel Coward both rejected famous role?",
+      "answer": "James Bond",
+      "id": 402
+    },
+    {
+      "category": "food",
+      "question": "Prior to winning a blue ribbon at the 1893 Chicago World's Fair, what was the name of the Pabst Blue Ribbon Beer?",
+      "answer": "Pabst Beer",
+      "id": 403
+    },
+    {
+      "category": "sports",
+      "question": "Every how many years are the Winter Olympic Games celebrated?",
+      "answer": "Every four years",
+      "id": 404
+    },
+    {
+      "category": "science",
+      "question": "What are the two main gases that make up the air we breathe?",
+      "answer": "Nitrogen & Oxygen",
+      "id": 405
+    },
+    {
+      "category": "general",
+      "question": "Found on every keyboard, and popularly used in social media, what symbol is the octothorpe?",
+      "answer": "# hash/pound",
+      "id": 406
+    },
+    {
+      "category": "sports",
+      "question": "Name the swimmer who became a hollywood star in the 1940's and 50s in films such as 'Bathing Beauty' and 'Neptune's Daughter'.",
+      "answer": "Esther Williams",
+      "id": 407
+    },
+    {
+      "category": "arts",
+      "question": "Which U.S. write wrote the 'Naked and the Dead'?",
+      "answer": "Norman Mailer",
+      "id": 408
+    },
+    {
+      "category": "movies",
+      "question": "Which character sang 'When you wish upon a star...' in Disney's 'Pinocchio'?",
+      "answer": "Jimmy Cricket",
+      "id": 409
+    },
+    {
+      "category": "movies",
+      "question": "Which famous hollywood actress was convicted of shoplifting in 2002?",
+      "answer": "Winona Ryder",
+      "id": 410
+    }
+  ]
+}

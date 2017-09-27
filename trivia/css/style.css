@@ -1,0 +1,36 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 32px;
+	background-color:#F4F4F4;
+}
+
+.label {
+	font-weight: bold;
+	float: left;
+	padding-right: 15px;
+}
+
+.labelToggle {
+	cursor: pointer;
+}
+
+.category {
+	float: left;
+}
+
+.question {
+	float: left;
+}
+
+.answer {
+	float: left;
+	display: none;
+}
+
+.next {
+	float: left;
+}
+
+.submit {
+	float: right;
+}

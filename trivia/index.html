@@ -1,0 +1,41 @@
+<html>
+
+<head>
+    <title>Random Trivia</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    
+</head>
+
+<body>
+
+    <div class="label">#: </div><div class="questionnumber" id="questionnumber" contenteditable="true"></div>
+    <div class="label">Category: </div><div class="category" id="category" contenteditable="true"></div>
+    <br>
+    <br>
+    
+    <div class="label">Question: </div><div class="question" id="question" contenteditable="true">Question:</div>
+    <br>
+    <br>
+    
+    <div class="label labelToggle" id="labelAnswer">Answer: </div><div class="answer" id="answer" contenteditable="true">Answer:</div>
+    <br>
+    <br>
+    <br>
+
+    <div>
+        <input type="button" value="Next" class="next" onClick="window.location.reload()">
+        <input type="button" value="Submit" class="submit" onClick="submit()">
+    </div>
+    
+    <script type="text/javascript" src="js/jquery.min.v1.11.1.js" ></script>
+    <script type="text/javascript" src="js/trivia.js"></script>
+
+    <script>
+        $('#labelAnswer').click(function() {
+            $( "#answer" ).toggle();
+        });        
+    </script>
+</body>
+
+
+</html>
