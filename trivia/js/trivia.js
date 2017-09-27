@@ -1,4 +1,4 @@
-var url = window.location.protocol + "//" + window.location.hostname + ":3022/trivia/";
+var url = "https://fathomless-spire-32996.herokuapp.com/trivia/";
 var method = "GET";
 var async = true;
 var request = new XMLHttpRequest();
