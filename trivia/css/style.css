@@ -15,14 +15,17 @@ body {
 }
 
 .category {
+	font-size: 32px;
 	float: left;
 }
 
 .question {
+	font-size: 32px;
 	float: left;
 }
 
 .answer {
+	font-size: 32px;
 	float: left;
 	display: none;
 }
