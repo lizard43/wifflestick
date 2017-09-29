@@ -1,11 +1,12 @@
 var url = "https://fathomless-spire-32996.herokuapp.com/trivia/";
+// var url = "http://localhost:3000/trivia/";
 var method = "GET";
 var async = true;
 var request = new XMLHttpRequest();
 
 $(document).ready(function() {
 
-    var rnd = randomIntFromInterval(1, 450);
+    var rnd = randomIntFromInterval(1, 500);
 
     request.onload = function () {
 
