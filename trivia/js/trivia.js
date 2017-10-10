@@ -1,5 +1,5 @@
-var url = "https://fathomless-spire-32996.herokuapp.com/trivia/";
-// var url = "http://localhost:3000/trivia/";
+var URL = "https://fathomless-spire-32996.herokuapp.com/trivia/";
+// var URL = "http://localhost:3000/trivia/";
 var method = "GET";
 var async = true;
 var request = new XMLHttpRequest();
@@ -15,8 +15,12 @@ $(document).ready(function() {
             if (results) {
                 console.log('Question found: ', results );
 
-                $('#questionnumber').text(results.id);
-                $('#category').text(results.category.length > 0 ? results.category : '-');
+                $('#questionnumber').text('Q #' + results.id);
+
+                var category = results.category.length > 0 ? results.category : '-';
+                $('#category').text(category);
+                $('#category').addClass(category);
+                
                 $('#question').text(results.question);
                 $('#answer').text(results.answer);
                 
@@ -36,9 +40,9 @@ $(document).ready(function() {
 
     }
 
-    console.log('requesting: ', url + rnd);
+    console.log('requesting: ', URL + rnd);
 
-    request.open(method, url + rnd, async);
+    request.open(method, URL + rnd, async);
     request.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
     request.send('');
     
@@ -48,6 +52,8 @@ $(document).ready(function() {
 });
 
 function submit() {
+
+    var postURL = URL;
     
     var id = $('#questionnumber').text();
     var method = 'PUT';
@@ -55,7 +61,7 @@ function submit() {
     if (id === '') {
         method = 'POST';
     } else {
-        url = url + id;
+        postURL = postURL + id;
     }
     
     var payload = {
@@ -65,7 +71,7 @@ function submit() {
     };
 
     var request = new XMLHttpRequest();
-    request.open(method, url);
+    request.open(method, URL);
     request.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
     request.send(JSON.stringify(payload));            
 }
