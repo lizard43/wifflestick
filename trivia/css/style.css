@@ -27,8 +27,7 @@ body {
 	font-size: 32px;
 	color: rgb(242, 169, 0);
 	font-weight: bold;
-	float: left;
-	padding-right: 50px;
+	padding-left: 50px;
 }
 
 .labelToggle {

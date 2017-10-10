@@ -28,6 +28,11 @@
             <div class="label labelToggle" id="labelAnswer">Answer: </div>
             <div class="answer" id="answer" contenteditable="true"></div>
 
+            <br>
+            <br>
+            
+            <div class="label" id="next">Next</div>
+            
         </div>
 
     </div>
@@ -40,6 +45,11 @@
             $( "#answer" ).toggle();
             $( "#labelAnswer" ).toggle();
         });        
+
+        $('#next').click(function() {
+            window.location.reload();
+        });        
+        
     </script>
 
     
