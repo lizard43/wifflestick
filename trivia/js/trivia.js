@@ -49,7 +49,6 @@ $(document).ready(function() {
 
 function submit() {
     
-    var url = "http://localhost:3000/trivia/";    
     var id = $('#questionnumber').text();
     var method = 'PUT';
 
