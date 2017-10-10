@@ -1,5 +1,5 @@
-// var URL = "https://fathomless-spire-32996.herokuapp.com/trivia/";
-var URL = "http://localhost:3000/trivia/";
+var URL = "https://fathomless-spire-32996.herokuapp.com/trivia/";
+// var URL = "http://localhost:3000/trivia/";
 var method = "GET";
 var async = true;
 var request = new XMLHttpRequest();
