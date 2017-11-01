@@ -6,7 +6,7 @@ var request = new XMLHttpRequest();
 
 $(document).ready(function() {
 
-    var rnd = randomIntFromInterval(1, 1000);
+    var rnd = randomIntFromInterval(1, 1100);
 
     request.onload = function () {
 
