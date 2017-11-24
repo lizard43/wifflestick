@@ -1,5 +1,5 @@
 body {
-	background-color: #082E6D;
+	background-color: white;
 	margin: 0px;
 	height: calc(100vh - (100vh - 100%));
 	width: calc(100vw - (100vw - 100%));
@@ -21,6 +21,17 @@ body {
 	background:rgb(22, 22, 22);
 	height: calc(100% - 45px);
 	width: 100%;	
+}
+
+.cardback {
+	background-color: white;
+	border-style: solid;
+	border-width: 6px;
+	border-color: #082E6D;
+	border-radius: 10px;
+	padding: 10px;
+	height: 80vh;
+	width: calc(0.75 * 80vh);
 }
 
 .label {
@@ -72,7 +83,8 @@ body {
 }
 
 .logo {
-	height: 60%;
+	width: calc(100% - 6px);
+	height: calc(100% - 6px);
 }
 
 .slide {
@@ -86,19 +98,19 @@ body {
 
 	z-index: 100;
 	
-    -webkit-animation: slide 0.1s forwards;
+    /* -webkit-animation: slide 0.1s forwards;
     -webkit-animation-delay: 1s;
     animation: slide 0.1s forwards;
-    animation-delay: 1s;
+    animation-delay: 1s; */
 }
 
-@-webkit-keyframes slide {
+/* @-webkit-keyframes slide {
     100% { left: 0; }
 }
 
 @keyframes slide {
     100% { left: 0; }
-}
+} */
 
 .arts {
 	background:yellow;
@@ -145,3 +157,41 @@ body {
 	color: black;		
 }
 
+.font, .back {
+	backface-visibility: hidden;
+	position: relative;
+	top: 0;
+	left: 0;	
+}
+
+/* initially hidden pane */
+.front {
+	z-index: 2;
+	transform: rotateY(180deg);
+}
+
+.back {
+	transform: rotateY(0deg);
+}
+
+/* entire container, keeps perspective */
+.flip-container {
+	perspective: 1000px;
+}
+	/* flip the pane when hovered */
+	.flip-container:hover .flipper, .flip-container.hover .flipper {
+		transform: rotateY(180deg);
+	}
+
+.flip-container, .front, .back {
+	width: 320px;
+	height: 480px;
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
