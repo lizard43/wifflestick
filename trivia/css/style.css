@@ -42,18 +42,18 @@ body {
 }
 
 .question {
-	font-size: 32px;
+	font-size: 38px;
 	color: rgb(242, 169, 0);
 	width: 100%;		
 	text-align: center;	
 }
 
 .answer {
-	font-size: 32px;
+	font-size: 34px;
 	color: rgb(242, 169, 0);
 	width: 100%;		
 	text-align: center;	
-	display: none;
+	/* display: none; */
 }
 
 .next {
