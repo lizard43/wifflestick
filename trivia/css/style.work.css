@@ -1,0 +1,197 @@
+body {
+	background-color: white;
+	margin: 0px;
+	height: calc(100vh - (100vh - 100%));
+	width: calc(100vw - (100vw - 100%));
+}
+
+.category {
+	border-radius: 25px 25px 0 0;
+	background:brown;
+	color: rgb(242, 169, 0);	
+	font-size: 32px;	
+	line-height: 45px;
+	text-align: center;
+	width: 100%;	
+	text-transform: uppercase;
+}
+
+.card {
+	border-radius: 0 0 25px 25px;
+	background:rgb(22, 22, 22);
+	height: calc(100% - 45px);
+	width: 100%;	
+}
+
+.cardback {
+	background-color: white;
+	border-style: solid;
+	border-width: 6px;
+	border-color: #082E6D;
+	border-radius: 10px;
+	padding: 10px;
+	height: 80vh;
+	width: calc(0.75 * 80vh);
+}
+
+.label {
+	font-size: 32px;
+	color: rgb(242, 169, 0);
+	font-weight: bold;
+	padding-left: 50px;
+}
+
+.labelToggle {
+	cursor: pointer;
+}
+
+.questionnumber {
+	position: fixed;
+	top: 5px;
+	left:5px;
+	font-size: 32px;
+}
+
+.question {
+	font-size: 32px;
+	color: rgb(242, 169, 0);
+	width: 100%;		
+	text-align: center;	
+}
+
+.answer {
+	font-size: 32px;
+	color: rgb(242, 169, 0);
+	width: 100%;		
+	text-align: center;	
+	display: none;
+}
+
+.next {
+	float: left;
+}
+
+.submit {
+	float: right;
+}
+
+.centered {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.logo {
+	width: calc(100% - 6px);
+	height: calc(100% - 6px);
+}
+
+.slide {
+	background-color: black;
+	
+    position: absolute;
+	left: -100vw;
+	
+	height: 100%;
+	width: 100%;	
+
+	z-index: 100;
+	
+    /* -webkit-animation: slide 0.1s forwards;
+    -webkit-animation-delay: 1s;
+    animation: slide 0.1s forwards;
+    animation-delay: 1s; */
+}
+
+/* @-webkit-keyframes slide {
+    100% { left: 0; }
+}
+
+@keyframes slide {
+    100% { left: 0; }
+} */
+
+.arts {
+	background:yellow;
+	color: black;		
+}
+
+.food {
+	background:rgb(62, 102, 58);
+	color: black;		
+}
+
+.geography {
+	background:green;
+	color: black;		
+}
+
+.history {
+	background:brown;
+	color: black;		
+}
+
+.movies {
+	background:rgb(78, 205, 228);
+	color: black;		
+}
+
+.music {
+	background:rgb(228, 158, 78);
+	color: black;		
+}
+
+.science {
+	background:blue;
+	color: black;		
+}
+
+.sports {
+	background:orange;
+	color: black;		
+}
+
+.tv {
+	background:rgb(219, 118, 206);
+	color: black;		
+}
+
+.font, .back {
+	backface-visibility: hidden;
+	position: relative;
+	top: 0;
+	left: 0;	
+}
+
+/* initially hidden pane */
+.front {
+	z-index: 2;
+	transform: rotateY(180deg);
+}
+
+.back {
+	transform: rotateY(0deg);
+}
+
+/* entire container, keeps perspective */
+.flip-container {
+	perspective: 1000px;
+}
+	/* flip the pane when hovered */
+	.flip-container:hover .flipper, .flip-container.hover .flipper {
+		transform: rotateY(180deg);
+	}
+
+.flip-container, .front, .back {
+	width: 320px;
+	height: 480px;
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
