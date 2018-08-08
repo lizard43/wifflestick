@@ -13,17 +13,11 @@ img.make-it-fit {
 }
 
 .banner {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   text-align: center;
-  width: 1240px;
+  width: 300px;
   background: #ccc;
-}
-
-.team-banner {
-  position: absolute;
-  top: 655px;    
-  left: 10px; 
 }
 
 .game-banner {
@@ -32,9 +26,14 @@ img.make-it-fit {
   left: 10px; 
 }
 
+.team-banner {
+  position: absolute;
+  top: 460px;    
+  left: 315px; 
+}
+
 .game-band {
-  width: 90%;
-  max-width: 1240px;
+  width: 300px;
   margin: 0 auto;
   
   display: grid;
@@ -50,19 +49,18 @@ img.make-it-fit {
 
 @media only screen and (min-width: 500px) {
   .game-band {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
   }  
 }
 
 @media only screen and (min-width: 850px) {
   .game-band {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 }
 
 .team-band {
-  width: 90%;
-  max-width: 1240px;
+  width: 300px;
   margin: 0 auto;
   
   display: grid;
@@ -72,19 +70,19 @@ img.make-it-fit {
   grid-gap: 5px;
 
   position: absolute;
-  top: 673px;    
-  left: 10px; 
+  top: 478px;    
+  left: 315px; 
 }
 
 @media only screen and (min-width: 500px) {
   .team-band {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
   }  
 }
 
 @media only screen and (min-width: 850px) {
   .team-band {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
   }
 }
 
@@ -94,8 +92,9 @@ img.make-it-fit {
   color: #444;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   min-height: 100%;
+  border: 1px solid black;
   
   position: relative;
   top: 0;
@@ -109,12 +108,6 @@ img.make-it-fit {
 
 .card article {
   padding: 5px;
-}
-
-.card .thumb {
-  padding-bottom: 60%;
-  background-size: cover;
-  background-position: center center;
 }
 
 /* typography */
