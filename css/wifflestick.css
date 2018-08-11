@@ -13,6 +13,15 @@ body {
   border: 1px solid black;
 }
 
+ul {
+  padding-left:1em;
+}
+
+li {
+  padding-left:1px;;
+  color:black;
+}
+
 .bracket-image {
   display: block;
   margin-top: 50px;
