@@ -28,6 +28,7 @@ li {
   margin-left: auto;
   margin-right: auto;
   width: 99%;
+  /* background: url('../images/loading.gif') no-repeat; */
 }
 
 .banner {
