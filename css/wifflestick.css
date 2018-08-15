@@ -41,15 +41,14 @@ li {
   border: 1px solid black;
 }
 
-.band {
+.tband {
   width: 99%;
   margin: 10px;
-  
-  display: grid;
-  
-  grid-template-columns: auto auto auto auto auto auto;
-  grid-template-rows: auto;
-  grid-gap: 10px;
+}
+
+td {
+  vertical-align: top;
+  height:0;
 }
 
 .card {
@@ -57,22 +56,17 @@ li {
   text-decoration: none;
   color: #444;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  display: flex;
-  flex-direction: column;
-  min-height: 100%;
-  border: 1px solid black;
-  
-  position: relative;
-  top: 0;
+  height: 100%;
+  border: 1px solid black;  
   transition: all .1s ease-in;
 }
 
 .card:hover {
-  top: -2px;
   box-shadow: 0 4px 5px rgba(0,0,0,0.2);
 }
 
 .card article {
+  height: 100%;
   padding: 10px;
 }
 
