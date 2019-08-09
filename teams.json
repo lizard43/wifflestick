@@ -1,0 +1,45 @@
+{
+    "teams": [
+        {
+            "team": 1,
+            "name": "",
+            "captain": "",
+            "players" : [
+                {
+                    "number" : 1,
+                    "name": ""
+                },
+                {
+                    "number" : 2,
+                    "name": ""
+                },
+                {
+                    "number" : 3,
+                    "name": ""
+                },
+                {
+                    "number" : 4,
+                    "name": ""
+                }
+            ],
+            "alternates" : [
+                {
+                    "number" : 1,
+                    "name": ""
+                },
+                {
+                    "number" : 2,
+                    "name": ""
+                },
+                {
+                    "number" : 3,
+                    "name": ""
+                },
+                {
+                    "number" : 4,
+                    "name": ""
+                }
+            ]
+        },
+    ]
+}

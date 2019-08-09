@@ -1,45 +1,9 @@
-  var GAME_URL='/games/game';
+var GAME_URL = 'http://query.yahooapis.com/v1/public/yql?q=select%20%2a%20from%20yahoo.finance.quotes%20WHERE%20symbol%3D%27WRC%27&format=json&diagnostics=true&env=store://datatables.org/alltableswithkeys&callback';
 
-// Create the tooltips only when document ready
-$(document).ready(function() {
+$(document).ready(function () {
 
-  $('area').each(function() {
+  $.getJSON(GAME_URL, function (data) {
 
-    $(this).qtip("destroy")
-
-    $(this).qtip({
-      position: {
-        target: [5, 5]      
-      },
-      show: {
-        click: true,
-        delay: 100,
-        solo: true
-      },
-      hide: 'unfocus',
-      style: 'qtip-light qtip-rounded',
-      content: {
-        text: function(event, api) {
-          $.ajax({
-            cache: false,
-            url: GAME_URL + api.elements.target.attr('id') + '.html'
-          })
-          .then(
-              function(content) {
-                // Set the tooltip content upon successful retrieval
-                api.set('content.text', content);
-              } , 
-              function(xhr, status, error) {
-                // Upon failure... set the tooltip content to error
-                api.set('content.text', status + ': ' + error);
-              }
-            );
-            return 'Loading...'; // Set some initial text
-        },
-        title: function(event, api) {
-          return 'Game ' + api.elements.target.attr('id') ;
-        }
-    }
+    console.log(data);
   });
-});
 });
